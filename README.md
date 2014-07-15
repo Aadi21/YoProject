@@ -1,12 +1,5 @@
 # Yoproject
 
-Yet another amazing AngularJS app
+Yet another amazing AngularJS - Twitter Bootstrap based app created using Yeoman!
 
-## Getting Started
-
-## Documentation
-_(Coming soon)_
-
-## Examples
-_(Coming soon)_
 
