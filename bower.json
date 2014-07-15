@@ -1,0 +1,33 @@
+{
+  "name": "YoProject",
+  "version": "0.1.0",
+  "description": "Yet another amazing AngularJS app",
+  "keywords": [
+    "angular"
+  ],
+  "homepage": "https://github.com/Aadi21/-yo-project",
+  "bugs": "https://github.com/Aadi21/-yo-project/issues",
+  "author": {
+    "name": "Aditya Jain",
+    "email": "",
+    "url": "https://github.com/Aadi21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aadi21/-yo-project.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "dependencies": {
+    "bootstrap": "3.2.0",
+    "font-awesome": "4.1.0",
+    "angular-ui-router": "0.2.10",
+    "angular-animate": "^1.3.0-beta.15",
+    "angular-resource": "^1.3.0-beta.15",
+    "angular-route": "^1.3.0-beta.15",
+    "angular": "^1.3.0-beta.15"
+  }
+}
